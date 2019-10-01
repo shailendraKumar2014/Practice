@@ -2,3 +2,4 @@ OHCLP123249	ERS	L2	Account Name 5		United States	USA	NN	L0	Closed Won	Opportunit
 OHCLP113405	ERS		Account Name 17		Singapore	South-Eastern Asia	EN	P2	Aborted	Opportunity Name 24	"Too many portals (100+ with different SLAs) due to different lines of businesses servicing their Enterprise customers over last 15 yrs.
 
 Tried to leverage on ZTE experience to retrofit the portals but had limited success. Their ultimate aim is to have a portal for one singular version of truth on customer insight such as a converged Service Delivery Platform (SDP)."	USD	2000	Sanjay Sivam	AM 16	Opportunity Owner 14	Rupy SIkka	Sukamal Banerjee	GADE RAO	C Vijay Kumar		0	USD		1/28/2016	2/12/2016	2/25/2017	7/7/2016	New SOW		USD	0	ERS	ERS- Others						Comfort With Competitor/Incumbent	ERS - ERS- Others - SDES		146
+shitij
