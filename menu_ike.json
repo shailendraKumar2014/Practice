@@ -8,7 +8,7 @@
 		"submenu": [
 			{
 				"href": "#projectManagement",
-				"display": "Project "
+				"display": "Proj"
 			},
 			
 			{
@@ -34,7 +34,8 @@
 			},
 			{
 				"href": "#roleManagement",
-				"display": "Roles "
+				"display": "Roles ",
+				"Tester":"Shitij.g"
 			},
 			{
 				"href": "#organizationManagement",
