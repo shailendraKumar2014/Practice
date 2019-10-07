@@ -14,7 +14,7 @@ int main()
     //New comment
 }
 // Function definition
-int add(int a, int b)
+int xFunction::add(int a, int b)
 {
     int add;
     add = a + b;
